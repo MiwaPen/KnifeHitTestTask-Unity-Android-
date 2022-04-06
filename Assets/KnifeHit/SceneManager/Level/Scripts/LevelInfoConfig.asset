@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f583a3d0708970f4ebb173a631aa6301, type: 3}
+  m_Name: LevelInfoConfig
+  m_EditorClassIdentifier: 
+  levelStartKnivesCount: 6
+  levelMaxKnivesCount: 12
+  levelStartLogSpeed: 3
+  levelMaxLogSpeed: 1.5
+  rotationChangeStep: 0.2
